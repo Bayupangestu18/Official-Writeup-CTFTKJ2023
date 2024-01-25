@@ -5,7 +5,7 @@ IMAGE
 **Kemudian kita download file base.txt tersebut, dari deksripsi dan file yang diberikan sudah jelas bahwa itu adalah base32 yang di encrypt**
 IMAGE
 
-**Setelah itu kita pergi ke cybercheff untuk mendecode file base32 tersebut lalu kita mendapatkan flag tersebut**
+**Setelah itu kita pergi ke cybercheff [https://cyberchef.io/](url) untuk mendecode file base32 tersebut lalu kita mendapatkan flag tersebut**
 IMAGE
 
 
