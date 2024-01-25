@@ -6,7 +6,7 @@ IMAGE
 **Ketika kita buka file chall.txt tersebut adalah bilangan binary**
 IMAGE
 
-**Kemudian kita coba mengconversikan ke bilangan ASCIII, ternyata kita langsung mendapatkan flag**
+**Kemudian kita coba mengconversikan ke bilangan ASCIII dengan menggunakan website [https://www.rapidtables.com/convert/number/ascii-hex-bin-dec-converter.html](url), ternyata kita langsung mendapatkan flag**
 IMAGE
 
 **FLAG:W92{******************}**
